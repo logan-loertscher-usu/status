@@ -1,6 +1,7 @@
 # Status via fit statUSB
 Parts List (not affiliate links)
-- [fit statUSB light](https://www.amazon.com/gp/product/B07CKFLQ5V/ref=ox_sc_act_title_1?smid=A3J2VUK9571N8X&psc=1) | [Manufacturer Docs](http://fit-pc.com/wiki/index.php/Fit-statUSB)  
+- [fit statUSB light](https://www.amazon.com/gp/product/B07CKFLQ5V/ref=ox_sc_act_title_1?smid=A3J2VUK9571N8X&psc=1) | [Manufacturer Docs](http://fit-pc.com/wiki/index.php/Fit-statUSB)
+  - [price history ](https://camelcamelcamel.com/product/B07CKFLQ5V)
 - [USB extension cable](https://www.amazon.com/gp/product/B097Q99K1P/ref=ox_sc_act_title_2?smid=A1HTDKRQ0FE20L&psc=1) or similar
 - [Gooseneck USB (optional)](https://www.amazon.com/gp/product/B003PFBB4G/ref=ewc_pr_img_1?smid=A32IO94WFN2NEL&psc=1) or similar   
    
