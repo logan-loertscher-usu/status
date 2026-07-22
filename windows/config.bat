@@ -1,0 +1,1 @@
+set FITSTAT_PORT=COM8
