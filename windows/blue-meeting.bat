@@ -1,1 +1,0 @@
-echo #00FFFF > \.\\COM3
